@@ -69,12 +69,6 @@ This way the view can be changed without us worrying about re-binding the event 
 
 For an in-depth explanation regards Appfairy be sure to check-out the following:
 
-- [Medium blog post](https://medium.com/@eytanmanor/how-to-create-a-react-app-out-of-a-webflow-project-309b696a0533) - An introduction to Appfairy and the motives behind it.
-
-- [YouTube video](https://www.youtube.com/watch?v=6hJe6pZld0o) - I walk through Appfairy and an implementation of an example app.
-
-- [Example app](https://github.com/DAB0mB/Appfairy/tree/master/examples/prefetch) - An example for a simple app which uses Appfairy.
-
 ## Docs
 
 Appfairy is a CLI tool that can be installed using NPM:
